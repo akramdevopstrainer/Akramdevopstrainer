@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Akram Devops Trainer</h1>
 <h3 align="center">I offer training and consulting services in DevOps, Docker, Kubernetes, Cloud Operations, Atlassian tools, and other domains.</h3>
 
-<img alt="coding" width="500" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img alt="coding" width="300" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
+
+<img alt="coding" width="1000" src="https://camo.githubusercontent.com/52dd946a58cbec6985301beba8b3b97f64a57916306d4b9e16b19034f995f792/68747470733a2f2f6c697665696d616765732e616c676f776f726b732e636f6d2f6e65772d616c676f776f726b732f77702d636f6e74656e742f75706c6f6164732f323032322f30352f33313130333033332f6465764f70732d636c6f75642d6e61746976652e676966">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akramdevopstrainer&label=Profile%20views&color=0e75b6&style=flat" alt="akramdevopstrainer" /> </p>
 
