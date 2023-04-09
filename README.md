@@ -1,23 +1,24 @@
 ![logo](https://github.com/akramdevopstrainer/Akramdevopstrainer/blob/main/Screenshot%202023-04-09%20at%204.57.37%20PM.png)
 <h1 align="center">Hi 👋, I'm Akram Devops Trainer</h1>
-<h3 align="left">I offer training and consulting services in DevOps, Docker, Kubernetes, Cloud Operations, Atlassian tools, and other domains.</h3>
+<h3 align="center">I offer training and consulting services in DevOps, Docker, Kubernetes, Cloud Operations, Atlassian tools, and other domains.</h3>
 
-<div style="text-align:center;">
 <img alt="coding" width="500" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-</div>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akramdevopstrainer&label=Profile%20views&color=0e75b6&style=flat" alt="akramdevopstrainer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akramdevopstrainer" alt="akramdevopstrainer" /></a> </p>
-
-- 👯 I’m looking to collaborate on **Cloud, Devops, Atlassin Tools.**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akramdevopstrainer&label=Profile%20views&color=0e75b6&style=flat" alt="akramdevopstrainer" /> </p>
 
 - 💬 Ask me about **Cloud, Devops, ITIL.**
 
 - 📫 How to reach me **rootakramdevops@gmail.com**
 
+- 👯 I’m looking to collaborate on **Cloud, Devops, Atlassin Tools.**
+
+- 📫 How to reach me **rootakramdevops@gmail.com**
+
 - ⚡ Fun fact **I used to have a fear of the cloud, but then I realized it was just a foggy notion.**
+
+<div style="text-align: center;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akramdevopstrainer" alt="akramdevopstrainer" /></a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
