@@ -1,7 +1,7 @@
-![logo](https://github.com/akramdevopstrainer/Akramdevopstrainer/blob/main/Screenshot%202023-04-09%20at%204.57.37%20PM.png)
 <h1 align="center">Hi 👋, I'm Akram Devops Trainer</h1>
-<h3 align="center">I offer training services in DevOps, Docker, Kubernetes, Cloud Operations, Atlassian tools, and other domains.</h3>
+<h3 align="left">I offer training services in DevOps, Docker, Kubernetes, Cloud Operations, Atlassian tools, and other domains.</h3>
 
+<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akramdevopstrainer&label=Profile%20views&color=0e75b6&style=flat" alt="akramdevopstrainer" /> </p>
 
