@@ -1,6 +1,6 @@
 ![logo](https://github.com/akramdevopstrainer/Akramdevopstrainer/blob/main/Screenshot%202023-04-09%20at%204.57.37%20PM.png)
 <h1 align="center">Hi 👋, I'm Akram Devops Trainer</h1>
-<h3 align="center">I offer training and consulting services in DevOps, Docker, Kubernetes, Cloud Operations, Atlassian tools, and other domains.</h3>
+<h3 align="center">I am passionate about educating professionals and teams on best practices for implementing and managing cloud-based solutions and DevOps methodologies, and I am dedicated to driving success in cloud and DevOps environments through effective training programs. I offer training and consulting services in DevOps, Docker, Kubernetes, Cloud Operations, Atlassian tools, and other domains. </h3>
 
 <img alt="coding" width="300" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216"> 
 
